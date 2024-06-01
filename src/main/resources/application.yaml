@@ -13,3 +13,4 @@ minio:
   url: http://localhost:9000
   username: admin
   password: adminpass
+  put-object-part-size: 5242880 #value in bytes (minimum is 5 MB equivalent)
