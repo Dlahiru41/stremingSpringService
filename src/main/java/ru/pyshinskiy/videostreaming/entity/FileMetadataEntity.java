@@ -1,4 +1,4 @@
-package com.example.streamer;
+package ru.pyshinskiy.videostreaming.entity;
 
 import jakarta.persistence.Entity;
 import lombok.*;
