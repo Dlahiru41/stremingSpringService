@@ -14,3 +14,7 @@ minio:
   username: admin
   password: adminpass
   put-object-part-size: 5242880 #value in bytes (minimum is 5 MB equivalent)
+
+app:
+  streaming:
+    default-chunk-size: 3145728 #value in bytes
